@@ -1,0 +1,19 @@
+GUIA;Javiera Lopez;13468345-9;javieral@gmail.com;Ingles
+PROVEEDOR;Juan Carlos;26835468-k;Juanca@gmail.com;LlanquihueSpa;Alojamiento
+TRANSPORTE;Jesus Benavides;42893564-6;Jesub@gmail.com;FGJH67;Mini Van 
+GUIA;Daniel Flores;98563479-4;Daniflo@gmail.com;Portugues
+PROVEEDOR;Tomas Juarez;23748926-4;Tomas@gmail.com;La Villa;Alimentacion
+TRANSPORTE;Lucas Molina;38462873-9;Lucasm@gmail.com;KOLAHS87;Bus
+GUIA;Ana Maciel;64739284-3;Anamac@gmail.com;Ingles
+PROVEEDOR;Karina Contador;37482647-7;Kcontador@gmail.com;Cannopy Adventure;Experiencia
+TRANSPORTE;Carolina Mendez;26378653-k;caromendes@gmail.com;ASDF23;Mini Van
+GUIA;Pedro Ramirez;98765432-1;pedror@gmail.com;Español
+PROVEEDOR;Juan Perez;12345678-9;jperez@gmail.com;Donde Julieta;Alimentacion
+TRANSPORTE;Juan Torres;14567890-2;jtorres@gmail.com;ZXCV12;Bus
+GUIA;Joaquin Bustos;11222333-4;carom@gmail.com;Frances
+PROVEEDOR;Maria Soto;98765432-1;msoto@gmail.com;ChiquititaSpa;Alojamiento
+TRANSPORTE;Ana Silva;19876543-1;asilva@gmail.com;QWER45;SUV
+PROVEEDOR;Carlos Rojas;11222333-4;crojas@gmail.com;Volances de Llanquihue;Experiencia
+PROVEEDOR;Ana Fuentes;55666777-8;afuentes@gmail.com;El Lago;Alimentacion
+TRANSPORTE;Luis Paredes;16789432-5;lparedes@gmail.com;LMNO78;Mini Bus
+PROVEEDOR;Luis Herrera;99888777-6;lherrera@gmail.com;El Amanecer;Alojamiento

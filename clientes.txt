@@ -1,0 +1,8 @@
+Alvaro Soto;23674893-8;alvarosoto@gmail.com;023;003
+Josefina Molina;63872766-3;josemol@gmail.com;024;005
+Daniela Jorquera;53782953-4;daninjor@gmail.com;025;001
+Elisa Flores;78356257-3;elisaflor@gmail.com;026;001
+Camilo Krauss;87693788-7;camilok@gmail.com;027;002
+Felicia Morales;68934576-7;feliciam@gmail.com;028;002
+Victor Jara;23788456-4;vicjara@gmail.com;029;004
+Pablo Cerda;11979193-6;pcerda@gmail.com;030;006

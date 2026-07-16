@@ -1,0 +1,7 @@
+001;Isla Huar;Ruta Gastronomica;true;13468345-9
+002;Parque Tagua Tagua;Paseo Lacustre;true;98563479-4
+003;Playa Los Cisnes;Paseo Lacustre;false;98765432-1
+004;Río Maullín;Excursion Cultural;false;64739284-3
+005;Volcán Osorno;Excursion Cultural;true;11222333-4
+006;Lago Llanquihue;Excursion Cultural;true;13468345-9
+
